@@ -1,2 +1,3 @@
 # Deadlock-prevention-Techniques
 When there is a group of processes waiting for resource which is held by other processes in the same set a deadlock take place. Basically, deadlocks are the set of obstructed processes everyone holding a resource and waiting to obtain a resource which is held by some another process.
+The processes in a deadlock may wait for infinite time for the resources they need and never end their executions and the resources which are held by them are not accessible to any other process which are depending that resource. The existence of deadlocks should be organized efficiently by their recognition and resolution but may occasionally lead the system to a serious failure.
